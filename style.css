@@ -1,0 +1,27 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.div-container{padding: 1rem;}
+.row{
+    display: flex;
+}
+.font{
+    width: 33%;
+}
+.bg{
+    width: 33%;
+    text-align: center;
+}
+.button{
+    width: 30%;
+    text-align: center;
+    padding: 1.5px;
+}
+select{
+    margin: 1rem 1rem 1rem 0;
+    padding: 2px;
+}
+p{margin: 0 1rem 1rem 0;}
+.btn{
+    font-size: 1rem;
+    padding: 1px;
+
+}
